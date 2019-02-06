@@ -7,7 +7,7 @@ versão beta,
 
 em aperfeiçoamento.
 
-conectou-se à rede
+conectou-se à rede\
 e contraiu um vírus,\
 o terrível preconceito.
 
