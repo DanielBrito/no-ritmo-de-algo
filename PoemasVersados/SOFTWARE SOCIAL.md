@@ -2,13 +2,12 @@
 
 nasceu.
 
-sistema operacional
-versão beta,
-
+sistema operacional\
+versão beta,\
 em aperfeiçoamento.
 
 conectou-se à rede\
-e contraiu um vírus,\
+e contraiu um vírus:\
 o terrível preconceito.
 
 instalando-se de conhecimento,\
