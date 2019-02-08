@@ -4,6 +4,6 @@ Para as pessoas que gostam de computação e poesia, criei este repositório com
 
 Alguns deles farão parte do meu próximo livro: no RITMO de ALGO.
 
-Mais dos meus poemas autorais estão disponíveis [aqui](http://daniel-brito.blogspot.com.br/p/poemas-autorais_11.html).
+Mais poemas autorais estão disponíveis [aqui](http://daniel-brito.blogspot.com.br/p/poemas-autorais_11.html).
 
 ![](https://danielbrito.github.io/assets/img/no-ritmo-de-algo.jpg)
