@@ -7,6 +7,6 @@ que carrego\
 dentro de mim
 
 representa\
-uma função afim\
+uma função afim
 
 de ti
