@@ -1,10 +1,10 @@
 # PAPO RETO
 
-se estou afim dela
+se estou afim dela\
 mando o papo reta
 
-nosso ponto de interseção
+nosso ponto de interseção\
 só vai ser obtido
 
-depois de resolver
+depois de resolver\
 essa questão
