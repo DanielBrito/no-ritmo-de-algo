@@ -21,6 +21,6 @@ Outros atributos que podemos apontar deste tipo de poesia são:
 
 Saiba mais no meu post [ESTUDOS SOBRE POESIA CONCRETA E VISUAL](http://daniel-brito.blogspot.com.br/2016/05/estudos-sobre-poesia-concreta-visual.html).
 
-![](http://192.241.218.92/chaa-warburg/img/obras/ivan.jpg)
+![](https://i.pinimg.com/originals/bb/7e/96/bb7e96e6def31757b584bc14cd9a677e.jpg)
 
 > Haroldo de Campos, Décio Pignatari e Augusto de Campos
