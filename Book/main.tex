@@ -2,8 +2,14 @@
 
 \usepackage[brazil]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage[a4paper, total={5in, 10in}]{geometry}
+\usepackage{fancyhdr}
 
-\usepackage{graphicx}
+\setlength{\parindent}{0em}
+
+\pagestyle{fancy}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
 
 \author{Daniel Brito}
 \title{No Ritmo de Algo}
@@ -16,8 +22,8 @@
 \tableofcontents
 
 \mainmatter
-\include{./TeX_files/chapter01}
-\include{./TeX_files/chapter02}
+\include{./chapter01}
+\include{./chapter02}
 
 \backmatter
 % bibliography, glossary and index would go here.
