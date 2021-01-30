@@ -8,6 +8,6 @@ Para as pessoas que gostam de computação e poesia, criei este repositório com
 
 Todos os meus poemas autorais estão disponíveis [aqui](http://daniel-brito.blogspot.com.br/p/poemas-autorais_11.html).
 
-<div align="center">
-<img alt="No Ritmo De Algo - Daniel Brito" src="https://danielbrito.github.io/assets/img/no-ritmo-de-algo.jpg" width="400px"/>
-</div>
+<p align="center">
+<img alt="No Ritmo De Algo - Daniel Brito" src="https://danielbrito.github.io/assets/img/livros/no-ritmo-de-algo.jpg" width="400px"/>
+</p>
