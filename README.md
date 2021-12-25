@@ -6,7 +6,7 @@ Previsto para ser lançado em 2018, mas questões acadêmicas impossibilitaram t
 
 Para as pessoas que gostam de computação e poesia, criei este repositório com alguns poemas que farão parte dele, e que utilizam metáforas sobre programação, matemática, tecnologia e afins.
 
-Todos os meus poemas autorais estão disponíveis no meu blog [Polymatus](http://daniel-brito.blogspot.com.br/p/poemas-autorais_11.html).
+Todos os meus poemas autorais estão disponíveis no meu blog [POLYMATUS](http://daniel-brito.blogspot.com.br/p/poemas-autorais_11.html).
 
 <br>
 
